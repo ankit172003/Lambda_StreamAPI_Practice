@@ -58,3 +58,6 @@ interface Walkable{
 //        return 2*steps;
 //    }
 //}
+
+
+
